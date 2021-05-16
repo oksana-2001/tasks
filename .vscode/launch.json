@@ -4,15 +4,11 @@
 	// Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
 	"version": "0.2.0",
 	"configurations": [
-		
 		{
-			"type": "pwa-node",
+			"type": "pwa-msedge",
 			"request": "launch",
-			"name": "Launch Program",
-			"skipFiles": [
-				"<node_internals>/**"
-			],
-			"program": "${workspaceFolder}\\first-task.js"
+			"name": "Open slider.html",
+			"file": "c:\\Users\\Oksana\\Desktop\\задачи\\DOM\\slider.html"
 		}
 	]
 }
