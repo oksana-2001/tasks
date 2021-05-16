@@ -9,7 +9,7 @@ a:focus {
 a:hover,
 a:active,
 a:focus {
-  color: #ff6163;
+  color: #260a46;
 }
 
 .simple-slider-container {
@@ -32,7 +32,7 @@ a:focus {
 .items{
 	display: flex;
 	position: relative;
-	color: blueviolet;
+	color: rgb(20, 107, 42);
 	right: 0;
 	transition: rignt .3s;
 }
